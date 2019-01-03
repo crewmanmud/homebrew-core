@@ -1,8 +1,8 @@
 class Grpcurl < Formula
   desc "Like cURL, but for gRPC"
   homepage "https://github.com/fullstorydev/grpcurl"
-  url "https://github.com/fullstorydev/grpcurl/archive/v1.0.0.tar.gz"
-  sha256 "7bb34f0bc08046feb093871898b1abc197cd75054dd80bd73167246caadd094c"
+  url "https://github.com/fullstorydev/grpcurl/archive/v1.1.0.tar.gz"
+  sha256 "8c8af1643c4d549947a2f2198f5c21d634b2a24b31de975a5784841a9127c82f"
 
   depends_on "go" => :build
 
